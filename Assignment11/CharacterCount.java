@@ -64,13 +64,11 @@ public class CharacterCount {
         writer.close();
     }
 
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
         HashMap<Character, Integer> c = new HashMap<Character, Integer>();
         CharacterCount diffChar = new CharacterCount();
-        System.out.println("enter file name");
-        Scanner scan = new Scanner(System.in);
-        String filename = scan.nextLine();
-        diffChar.readFile(filename);
+	String file=args[0];
+        diffChar.readFile(file);
 
     }
 }

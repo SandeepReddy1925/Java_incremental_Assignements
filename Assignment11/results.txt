@@ -1,0 +1,14 @@
+Charcter  a have occured 24 time
+Charcter  c have occured 1 time
+Charcter  d have occured 14 time
+Charcter  e have occured 3 time
+Charcter  f have occured 3 time
+Charcter  g have occured 16 time
+Charcter  h have occured 13 time
+Charcter  j have occured 13 time
+Charcter  k have occured 5 time
+Charcter  l have occured 8 time
+Charcter  q have occured 2 time
+Charcter  s have occured 12 time
+Charcter  w have occured 1 time
+Charcter  y have occured 2 time
